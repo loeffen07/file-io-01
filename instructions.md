@@ -1,4 +1,10 @@
-# J. File I/O - 01 - Read and Display from File
+# J. Introduction to File I/O
+### Reading and Displaying from a Text File
+## Learning Objectives
+  1. open file
+  2. read file
+  3. print contents of file
+
 ## Instructions  
 
 Create a program that reads a filename from user input, then opens, reads and prints the contents from a given text file.
